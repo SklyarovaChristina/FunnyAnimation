@@ -3,93 +3,129 @@
 
     <item
         is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a4b611ba84e6d92a46616031abadfb3495d7d7d3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_c405be696040081bfec1040dd9a4f866ff3c9bea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_26bb3710cb0045345b77c467a72d74b831585e2d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_09a0cb9634ebd787cb44211739fca3771dfe5f57.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_49562b12acfb8fc29a3459c70ef8faaa06caeb4c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_3e54deae198f3e3924bde3fa8953b9931e3d1bd0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_eb434997422796b93bd7f5518224972454dd4d3a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_f9dd3b3e2edd71f7a8bf7aa575e2b5213607d41b.jar" />
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_a71ced3522c207977b152f8ad229bb23d7e145f7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_236f85005cf8126af6307be48c66b768b4bbd1a5.jar" />
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_4fcb091f61dfbda0dfc1cf934ec6e098b614b665.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0146931df1b7fa4ac28049d867ffbdfa02a81cae.jar" />
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f7ed195ede3bfbd81629b2ad9ef64628413dba8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_06c2f1f01b62b8aeff813ecca420c7289e351795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_5f1b2cb3a36fe8a8f716fc57cad214b9771bd5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ebef0165df9377a2a4815e4c5f543099c1229467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_e03cab95e42732551d2c0cdce3e8fa40fe3d997a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_3d99373778860964389d52565061f30b44c4242b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_62a7be6270f35688db14cd1e7753ba96e7e5bdcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_608b5d10acf8493e58a45e0db2ed18967ebdde8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_aec503df3ede5791ad805bae069f250f61ae7861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_5883f3340b1cbd715c02ff08f36bfd8d56fde60f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bff4000f4fb9a7a80e9f87bcbd70d0bfc81dab4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/workspace/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b4361748bb5be9d4e15287386fed63cfbcd5f22b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -98,43 +134,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4c7d133ba83ef260fc880d44cc9d940bb8f10d2e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_b21a3f1f955d6c2de7cc4bdbbc44a2461faa67a5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_a68e767c68a228eaf1a99e2de10e5caf17d3f745.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_a3f46c8d2d17e1367848c36735fc8b08ace67b12.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/test/AndroidStudioProjects/FunnyAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_9397d071774dd93cb6446de7604c4fb46ddc33ea.jar" />
+        <dex dex="/home/test/workspace/FunnyAnimation/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4c7d133ba83ef260fc880d44cc9d940bb8f10d2e.jar" />
     </item>
 
 </items>
