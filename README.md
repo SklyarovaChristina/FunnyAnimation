@@ -1,4 +1,0 @@
-# FunnyAnimation
-
-
-test
